@@ -1,0 +1,15 @@
+{
+  "name": "barcode-generator",
+  "version": "1.0.0",
+  "description": "Generates type 128 barcodes from CSV input file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.5.0",
+    "jsbarcode": "^3.11.0"
+  }
+}
